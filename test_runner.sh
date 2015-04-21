@@ -11,3 +11,4 @@ if [[ -z "$(which learn-xcpretty)" ]]; then
   gem install learn-xcpretty
 fi
 echo "$LOG" | learn-xcpretty -t --report learn
+
