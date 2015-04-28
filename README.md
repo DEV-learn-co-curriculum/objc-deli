@@ -1,8 +1,3 @@
----
-  tags: methods, arrays, iteration
-  languages: objc
----
-
 # Deli Counter - Take a Number
 
 ## Instructions
