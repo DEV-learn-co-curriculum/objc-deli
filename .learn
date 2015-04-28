@@ -1,7 +1,7 @@
-tags:
-  - methods
-  - arrays
-  - iteration
-  - shipit
-languages:
-  - objc
+---
+:tags:
+- methods
+- arrays
+- iteration
+:languages:
+- objc
