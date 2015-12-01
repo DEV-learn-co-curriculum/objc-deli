@@ -18,3 +18,5 @@ Write all of your code in `FISAppDelegate.m`.  All method signatures should be a
 3. Build a method `deliLine:` that takes an `NSMutableArray` deliLine as an argument, and returns the current line (returned as an NSString). If there is nobody in line, it should return "The line is currently empty."
 
 **Make sure to read the tests before you get started to ensure you code your methods to their exact specifications!**
+
+<a href='https://learn.co/lessons/objc-deli' data-visibility='hidden'>Learn.co resource</a>
